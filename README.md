@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😎👋, I'm Öztürk</h1>
+<h1 align="center">Hi 😎, I'm Öztürk</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozturkgurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="ozturkgurbuz" /> </p>
